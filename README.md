@@ -6,5 +6,8 @@ by using the API `http://localhost:8888/EmployeesDB/employe_action.php`
 I use MAMP manipulate the Backend.
 
 ## Screen
-![](./capture/cap.png)
+
+
+#### When You make a long click a item you will get a button for update
+![](./capture/cap1.png)
 
